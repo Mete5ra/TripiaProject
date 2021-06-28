@@ -1,6 +1,8 @@
 jsp servlet project
 
-✨MTripia✨M
+![pic1](https://user-images.githubusercontent.com/81217201/123573462-fa8fd400-d808-11eb-81ee-d04370cc5a42.png)
+
+✨Tripia✨
 
 프로젝트 기획의도
 
